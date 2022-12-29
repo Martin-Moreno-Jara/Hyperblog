@@ -1,9 +1,9 @@
-#Hyperblog Manchester City 💙
+# Hyperblog Manchester City 💙
 Un blog del curso de Git y GitHub de Platzi con temática del Manchester City
 > Este curso fue una experiencia muy interesante y enriquecedora
 > - Me va a ayudar mucho en el futuro
 
-###A través del curso apliqué:
+### A través del curso apliqué:
 * Comandos de Git
 * Flujo de trabajo en GitHub (con una cuenta alterna)
 * Las buenas prácticas (como no subir binarios al repositorio)
