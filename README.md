@@ -10,5 +10,6 @@ Un blog del curso de Git y GitHub de Platzi con temática del Manchester City
 * Trucazos de Git (como los alias)
 * M&uacute;chas t&eacute;cnicas muy &uacute;tiles
 * Aprend&iacute; de html y css en el camino
+* Muy entretenido
 
 Cabe recordar que **Este proyecto es una práctica para aprender** y es puramente didactico para mi.
