@@ -8,5 +8,6 @@ Un blog del curso de Git y GitHub de Platzi con temática del Manchester City
 * Flujo de trabajo en GitHub (con una cuenta alterna)
 * Las buenas prácticas (como no subir binarios al repositorio)
 * Trucazos de Git (como los alias)
+* M&uacute;chas t&eacute;cnicas muy &uacute;tiles
 
 Cabe recordar que **Este proyecto es una práctica para aprender** y es puramente didactico para mi.
